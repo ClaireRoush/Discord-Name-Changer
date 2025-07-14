@@ -1,0 +1,19 @@
+{
+  "name": "discord-name-changer",
+  "version": "nooneevercare",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "discord",
+    "gay sex"
+  ],
+  "author": "ClaireRoush",
+  "license": "ISC",
+  "description": "A single js file using puppeteer for changing your username in discord. ",
+  "dependencies": {
+    "puppeteer": "^24.12.1"
+  }
+}
